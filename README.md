@@ -1,8 +1,8 @@
 # Exohunter electron client
 
-![image](https://github.com/breinsp/exohunter/blob/master/exohunter_analysis.png)
+![image](https://github.com/breinsp/exohunter/blob/master/res/exohunter_analysis.png)
 
-![image](https://github.com/breinsp/exohunter/blob/master/HGANrTi.jpg)
+![image](https://github.com/breinsp/exohunter/blob/master/res/HGANrTi.jpg)
 
 ## Setup
 
