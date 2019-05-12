@@ -1,0 +1,371 @@
+.form-group {
+    margin: 0 !important;
+}
+
+button>img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+#select-mode {
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.select-tile {
+    min-height: 300px;
+    border: 1px solid #454545;
+    padding: 0px !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: .2s ease;
+    -webkit-box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+
+.select-tile>p {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.select-tile>span {
+    margin-top: 20px;
+    font-size: 800%;
+    color: #454545;
+}
+
+.select-tile:hover {
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.mode-title {
+    width: 100%;
+    font-size: 20px;
+    background-color: #454545;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px;
+    border-bottom: 5px solid #6292C4;
+}
+
+#detail-delete {
+    margin-top: 15px;
+}
+
+#select-mode {
+    width: 100%;
+}
+
+select {
+    outline: none !important;
+}
+
+.float-center {
+    overflow: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.mode {
+    width: 100%;
+    display: none;
+}
+
+.mode-headline {
+    width: 100%;
+    background-color: #454545;
+    color: white;
+    padding: 2px;
+    font-size: 150%;
+    border-bottom: 5px solid #6292C4;
+    text-align: right;
+    position: relative;
+}
+
+.mode-headline>span {
+    cursor: pointer;
+}
+
+.mode-headline>span>span {
+    padding: 3px;
+}
+
+.mode-headline>h3 {
+    margin: 0;
+    padding: 3px;
+}
+
+.mode-container {
+    padding: 10px;
+    position: relative;
+    margin: 0 !important;
+}
+
+.input-group-btn>.btn {
+    outline: none !important;
+}
+
+.chart {
+    width: 100%;
+    display: block;
+}
+
+.batch-btn-area {
+    width: 100% !important;
+    text-align: right !important;
+}
+
+hr {
+    position: relative;
+    margin: 8px !important;
+}
+
+#manual-input {
+    z-index: 1 !important;
+}
+
+#manual-progress-display, #batch-progress-display {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    bottom: 0;
+    display: none;
+    opacity: 1;
+    position: relative;
+}
+
+#manual-progress-display>p, #batch-progress-display>p {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+    animation: fadeinout 2s infinite;
+}
+
+#manual-progress-display>span, #batch-progress-display>span {
+    font-size: 30px;
+}
+
+#manual-adjust-result {
+    position: absolute;
+    top: 10px;
+    display: none;
+    right: 10px;
+}
+
+@keyframes fadeinout {
+    00% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.chart-spacer {
+    height: 400px;
+}
+
+#manual-result {
+    width: 98%;
+    margin: 0 1%;
+    overflow-x: hidden;
+    border: 1px;
+    border-top: 3px solid #454545;
+}
+
+.candidate-entry {
+    overflow: hidden;
+    border: 1px solid lightgray;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px 10px 10px 10px;
+    display: block;
+    -webkit-box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.75);
+    position: relative;
+    height: auto;
+    transition: 1s ease;
+}
+
+.candidate-entry>div {
+    display: block;
+}
+
+.candidate-entry>div>h1, .candidate-entry>div>h2, .candidate-entry>div>h3 {
+    margin: 5px;
+}
+
+.candidate-entry-dip {
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 3px;
+}
+
+#manual-start-scan-btn {
+    display: none;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.planet-display {
+    padding: 10px;
+}
+
+.planet {
+    display: inline-block;
+    border-radius: 50%;
+    background-color: black;
+    -webkit-box-shadow: inset 10px 10px 38px 0px rgba(117, 147, 199, 1);
+    -moz-box-shadow: inset 10px 10px 38px 0px rgba(117, 147, 199, 1);
+    box-shadow: inset 10px 10px 38px 0px rgba(117, 147, 199, 1);
+}
+
+.toggle-collapse {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    cursor: pointer;
+    text-align: right;
+    padding: 2px 15px;
+}
+
+.toggle-collapse>i {
+    display: none;
+}
+
+.dip-container {
+    position: absolute;
+    top: 30px;
+    bottom: 1px;
+    width: 33%;
+    right: 10px;
+    overflow-y: scroll;
+}
+
+#batch-display {
+    width: 100%;
+}
+
+#batch-report {
+    position: relative;
+    padding: 20px;
+    margin: 0 2% 20px 2%;
+    min-height: 500px;
+    -webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.8);
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.8);
+}
+
+#batch-report>h1 {
+    text-align: center;
+}
+
+.close-report {
+    position: absolute;
+    top: -10px;
+    right: 0;
+    cursor: pointer;
+    padding: 20px;
+    font-size: 150%;
+}
+
+hr {
+    border-top: 1px solid lightgray;
+}
+
+#detail-modal {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: none;
+    z-index: 10 !important;
+}
+
+#detail-modal-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    height: 90%;
+    max-height: 90%;
+    overflow-y: scroll;
+    width: 80%;
+    background-color: white;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+#detail-modal-header {
+    text-align: right;
+    margin: 0;
+    padding: 0px 15px;
+    font-size: 150%;
+    position: relative;
+}
+
+#detail-modal-content {
+    position: relative;
+    padding: 25px 20px 10px 20px;
+    width: auto;
+}
+
+#detail-select {
+    font-size: 150%;
+}
+
+#detail-select>option {
+    font-size: 110%;
+    padding: 30px !important;
+    color: white
+}
+
+.detail-dip-container {
+    height: 300px;
+    max-height: 300px;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.detail-dip {
+    width: 98%;
+    margin: 1%;
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+.input-number-slider {
+    position: absolute;
+    bottom: 0px;
+    right: 15px;
+    height: 34px;
+    width: 34px;
+    padding: 7px 2px 2px 2px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    font-size: 14px;
+}

@@ -1,0 +1,234 @@
+[24.3.2018, 12:08:14] PYTHON: Using TensorFlow backend. 2018-03-24 12:08:10.440279: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:08:17] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:08:18] INFO: Scanning (batch): 202137749
+[24.3.2018, 12:12:23] INFO: Scanning (batch): 202129685
+[24.3.2018, 12:12:29] PYTHON: Using TensorFlow backend. 2018-03-24 12:12:26.000647: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:12:32] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:12:33] INFO: Scanning (batch): 202090375
+[24.3.2018, 12:12:39] PYTHON: Using TensorFlow backend. 2018-03-24 12:12:36.290902: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:12:42] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:12:43] INFO: Scanning (batch): 202084360
+[24.3.2018, 12:12:49] PYTHON: Using TensorFlow backend. 2018-03-24 12:12:46.638942: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:12:52] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:12:53] INFO: Scanning (batch): 202085659
+[24.3.2018, 12:13:00] PYTHON: Using TensorFlow backend. 2018-03-24 12:12:57.212865: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:03] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:04] INFO: Scanning (batch): 202136000
+[24.3.2018, 12:13:11] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:07.804324: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:14] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:15] INFO: Scanning (batch): 202135980
+[24.3.2018, 12:13:21] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:18.084793: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:24] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:25] INFO: Scanning (batch): 202090289
+[24.3.2018, 12:13:31] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:28.536399: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:34] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:35] INFO: Scanning (batch): 202081409
+[24.3.2018, 12:13:42] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:38.963958: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:45] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:46] INFO: Scanning (batch): 202086667
+[24.3.2018, 12:13:52] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:49.401527: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:13:55] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:13:56] INFO: Scanning (batch): 202137925
+[24.3.2018, 12:14:03] PYTHON: Using TensorFlow backend. 2018-03-24 12:13:59.873034: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:06] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:07] INFO: Scanning (batch): 202137930
+[24.3.2018, 12:14:13] PYTHON: Using TensorFlow backend. 2018-03-24 12:14:10.340179: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:16] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:17] INFO: Scanning (batch): 202139580
+[24.3.2018, 12:14:24] PYTHON: Using TensorFlow backend. 2018-03-24 12:14:20.822057: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:27] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:28] INFO: Scanning (batch): 202136150
+[24.3.2018, 12:14:34] PYTHON: Using TensorFlow backend. 2018-03-24 12:14:31.259818: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:37] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:38] INFO: Scanning (batch): 202094811
+[24.3.2018, 12:14:45] PYTHON: Using TensorFlow backend. 2018-03-24 12:14:41.628030: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:48] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:49] INFO: Scanning (batch): 202089251
+[24.3.2018, 12:14:55] PYTHON: Using TensorFlow backend. 2018-03-24 12:14:52.059325: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:14:58] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:14:59] INFO: Scanning (batch): 202088665
+[24.3.2018, 12:15:05] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:02.508193: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:15:08] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:15:09] INFO: Scanning (batch): 202091797
+[24.3.2018, 12:15:16] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:12.897658: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:15:19] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:15:20] INFO: Scanning (batch): 202085601
+[24.3.2018, 12:15:26] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:23.374288: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:15:29] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:15:30] INFO: Scanning (batch): 202091941
+[24.3.2018, 12:15:37] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:33.817448: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:15:40] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:15:41] INFO: Scanning (batch): 202081397
+[24.3.2018, 12:15:47] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:44.299046: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:15:50] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:15:51] INFO: Scanning (batch): 202136216
+[24.3.2018, 12:15:58] PYTHON: Using TensorFlow backend. 2018-03-24 12:15:54.895502: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:16:01] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:16:02] INFO: Scanning (batch): 202094941
+[24.3.2018, 12:16:09] PYTHON: Using TensorFlow backend. 2018-03-24 12:16:05.914577: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:16:12] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:16:13] INFO: Scanning (batch): 202088212
+[24.3.2018, 12:16:20] PYTHON: Using TensorFlow backend. 2018-03-24 12:16:16.766968: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:16:30] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:16:31] INFO: Scanning (batch): 202137689
+[24.3.2018, 12:16:38] PYTHON: Using TensorFlow backend. 2018-03-24 12:16:35.000943: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:16:41] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:16:42] INFO: Scanning (batch): 202129704
+[24.3.2018, 12:16:49] PYTHON: Using TensorFlow backend. 2018-03-24 12:16:45.975123: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:16:52] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:16:53] INFO: Scanning (batch): 202085652
+[24.3.2018, 12:17:00] PYTHON: Using TensorFlow backend. 2018-03-24 12:16:56.717880: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:17:09] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:17:10] INFO: Scanning (batch): 202091618
+[24.3.2018, 12:17:17] PYTHON: Using TensorFlow backend. 2018-03-24 12:17:13.861194: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:17:20] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:17:21] INFO: Scanning (batch): 202139593
+[24.3.2018, 12:17:28] PYTHON: Using TensorFlow backend. 2018-03-24 12:17:24.733691: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:17:31] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:17:32] INFO: Scanning (batch): 202136035
+[24.3.2018, 12:17:39] PYTHON: Using TensorFlow backend. 2018-03-24 12:17:35.550626: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:17:48] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:17:49] INFO: Scanning (batch): 202081287
+[24.3.2018, 12:17:56] PYTHON: Using TensorFlow backend. 2018-03-24 12:17:52.846896: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:17:59] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:00] INFO: Scanning (batch): 202136151
+[24.3.2018, 12:18:07] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:03.887588: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:18:10] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:11] INFO: Scanning (batch): 202088271
+[24.3.2018, 12:18:18] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:14.923243: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:18:21] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:22] INFO: Scanning (batch): 202135706
+[24.3.2018, 12:18:29] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:25.874751: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:18:32] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:33] INFO: Scanning (batch): 202091428
+[24.3.2018, 12:18:40] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:36.717411: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:18:43] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:44] INFO: Scanning (batch): 202094936
+[24.3.2018, 12:18:51] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:47.612108: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:18:54] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:18:55] INFO: Scanning (batch): 202137982
+[24.3.2018, 12:19:02] PYTHON: Using TensorFlow backend. 2018-03-24 12:18:58.512962: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:05] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:06] INFO: Scanning (batch): 202086646
+[24.3.2018, 12:19:12] PYTHON: Using TensorFlow backend. 2018-03-24 12:19:09.235598: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:15] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:16] INFO: Scanning (batch): 202137992
+[24.3.2018, 12:19:23] PYTHON: Using TensorFlow backend. 2018-03-24 12:19:19.750521: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:26] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:27] INFO: Scanning (batch): 202138181
+[24.3.2018, 12:19:33] PYTHON: Using TensorFlow backend. 2018-03-24 12:19:30.416299: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:36] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:37] INFO: Scanning (batch): 202090127
+[24.3.2018, 12:19:44] PYTHON: Using TensorFlow backend. 2018-03-24 12:19:40.957427: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:47] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:48] INFO: Scanning (batch): 202136144
+[24.3.2018, 12:19:54] PYTHON: Using TensorFlow backend. 2018-03-24 12:19:51.425712: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:19:57] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:19:58] INFO: Scanning (batch): 202091481
+[24.3.2018, 12:20:05] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:01.905445: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:20:08] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:20:09] INFO: Scanning (batch): 202138013
+[24.3.2018, 12:20:15] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:12.370824: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:20:18] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:20:19] INFO: Scanning (batch): 202085401
+[24.3.2018, 12:20:26] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:22.812072: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:20:29] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:20:30] INFO: Scanning (batch): 202135835
+[24.3.2018, 12:20:36] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:33.497930: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:20:39] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:20:40] INFO: Scanning (batch): 202094179
+[24.3.2018, 12:20:47] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:44.037006: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:20:50] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:20:51] INFO: Scanning (batch): 202135968
+[24.3.2018, 12:20:58] PYTHON: Using TensorFlow backend. 2018-03-24 12:20:54.936131: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:01] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:02] INFO: Scanning (batch): 202085281
+[24.3.2018, 12:21:09] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:05.656653: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:12] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:13] INFO: Scanning (batch): 202091071
+[24.3.2018, 12:21:19] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:16.180436: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:22] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:23] INFO: Scanning (batch): 202086250
+[24.3.2018, 12:21:29] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:26.587739: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:32] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:33] INFO: Scanning (batch): 202139634
+[24.3.2018, 12:21:40] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:37.069945: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:43] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:44] INFO: Scanning (batch): 202084789
+[24.3.2018, 12:21:51] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:47.648271: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:21:54] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:21:55] INFO: Scanning (batch): 202138167
+[24.3.2018, 12:22:02] PYTHON: Using TensorFlow backend. 2018-03-24 12:21:58.448771: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:22:05] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:22:06] INFO: Scanning (batch): 202067741
+[24.3.2018, 12:22:12] PYTHON: Using TensorFlow backend. 2018-03-24 12:22:09.294712: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:22:22] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:22:23] INFO: Scanning (batch): 202087158
+[24.3.2018, 12:22:30] PYTHON: Using TensorFlow backend. 2018-03-24 12:22:26.844218: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:22:33] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:22:34] INFO: Scanning (batch): 202083810
+[24.3.2018, 12:22:41] PYTHON: Using TensorFlow backend. 2018-03-24 12:22:37.728218: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:22:44] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:22:45] INFO: Scanning (batch): 202138023
+[24.3.2018, 12:22:52] PYTHON: Using TensorFlow backend. 2018-03-24 12:22:48.613801: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:22:55] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:22:56] INFO: Scanning (batch): 202092816
+[24.3.2018, 12:23:03] PYTHON: Using TensorFlow backend. 2018-03-24 12:22:59.586580: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:23:06] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:23:07] INFO: Scanning (batch): 202083893
+[24.3.2018, 12:23:14] PYTHON: Using TensorFlow backend. 2018-03-24 12:23:10.613784: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:23:17] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:23:18] INFO: Scanning (batch): 202071290
+[24.3.2018, 12:23:25] PYTHON: Using TensorFlow backend. 2018-03-24 12:23:21.642946: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:23:28] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:23:29] INFO: Scanning (batch): 202062157
+[24.3.2018, 12:23:36] PYTHON: Using TensorFlow backend. 2018-03-24 12:23:32.406130: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:23:39] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:23:40] INFO: Scanning (batch): 202090089
+[24.3.2018, 12:23:46] PYTHON: Using TensorFlow backend. 2018-03-24 12:23:43.287212: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:23:49] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:23:50] INFO: Scanning (batch): 202091498
+[24.3.2018, 12:23:57] PYTHON: Using TensorFlow backend. 2018-03-24 12:23:54.023600: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:00] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:01] INFO: Scanning (batch): 202095041
+[24.3.2018, 12:24:09] PYTHON: Using TensorFlow backend. 2018-03-24 12:24:05.317850: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:12] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:13] INFO: Scanning (batch): 202091998
+[24.3.2018, 12:24:20] PYTHON: Using TensorFlow backend. 2018-03-24 12:24:16.984375: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:23] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:24] INFO: Scanning (batch): 202138173
+[24.3.2018, 12:24:32] PYTHON: Using TensorFlow backend. 2018-03-24 12:24:28.429595: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:35] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:36] INFO: Scanning (batch): 202092049
+[24.3.2018, 12:24:44] PYTHON: Using TensorFlow backend. 2018-03-24 12:24:40.058459: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:47] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:48] INFO: Scanning (batch): 202092500
+[24.3.2018, 12:24:55] PYTHON: Using TensorFlow backend. 2018-03-24 12:24:51.920218: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:24:58] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:24:59] INFO: Scanning (batch): 202083482
+[24.3.2018, 12:25:07] PYTHON: Using TensorFlow backend. 2018-03-24 12:25:03.364665: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:25:10] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:25:11] INFO: Scanning (batch): 202091603
+[24.3.2018, 12:25:19] PYTHON: Using TensorFlow backend. 2018-03-24 12:25:14.967581: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:25:22] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:25:23] INFO: Scanning (batch): 202088835
+[24.3.2018, 12:25:31] PYTHON: Using TensorFlow backend. 2018-03-24 12:25:26.993885: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:25:34] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:25:35] INFO: Scanning (batch): 202135836
+[24.3.2018, 12:25:44] PYTHON: Using TensorFlow backend. 2018-03-24 12:25:38.928720: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:25:47] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:25:48] INFO: Scanning (batch): 202083097
+[24.3.2018, 12:25:57] PYTHON: Using TensorFlow backend. 2018-03-24 12:25:52.063258: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:26:00] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:26:01] INFO: Scanning (batch): 202137739
+[24.3.2018, 12:26:08] PYTHON: Using TensorFlow backend. 2018-03-24 12:26:04.513599: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:26:11] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:26:12] INFO: Scanning (batch): 202092753
+[24.3.2018, 12:26:19] PYTHON: Using TensorFlow backend. 2018-03-24 12:26:15.692233: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:26:22] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:26:23] INFO: Scanning (batch): 202094627
+[24.3.2018, 12:26:30] PYTHON: Using TensorFlow backend. 2018-03-24 12:26:26.711358: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:26:33] INFO: Succesfully sent analysis to server
+[24.3.2018, 12:26:34] INFO: Scanning (batch): 202139627
+[24.3.2018, 12:26:40] PYTHON: Using TensorFlow backend. 2018-03-24 12:26:37.350407: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2 
+[24.3.2018, 12:26:43] INFO: Succesfully sent analysis to server

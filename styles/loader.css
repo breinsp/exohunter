@@ -1,0 +1,79 @@
+#loader {
+  display: none;
+}
+
+.orbit {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  overflow: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  overflow: hidden;
+}
+
+.core {
+  position: absolute;
+  overflow: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: #6292C4;
+  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+  -webkit-box-shadow: inset -2px -2px 5px 0px rgba(84,84,84,1);
+  -moz-box-shadow: inset -2px -2px 5px 0px rgba(84,84,84,1);
+  box-shadow: inset -2px -2px 5px 0px rgba(84,84,84,1);
+}
+
+.sat {
+  width: 60%;
+  height: 60%;
+  margin: 20%;
+  position: absolute;
+  animation: rot 2s infinite linear;
+  overflow: hidden;
+}
+
+.sat>div {
+  width: 20%;
+  height: 20%;
+  background-color: #6292C4;
+  border-radius: 50%;
+  overflow: hidden;
+  animation: col 2s infinite linear;
+}
+
+@keyframes rot {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes col {
+  30% {
+    background-color: #6292C4;
+  }  
+  55% {
+    background-color: #294159;
+  }
+  80% {
+    background-color: #6292C4;
+  }
+}

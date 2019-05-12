@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Exohunter</title>
+
+  <script>
+    window.jQuery = window.$ = require('jquery');
+  </script>
+  <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+  <script src="./node_modules/canvasjs/dist/canvasjs.3.js"></script>
+
+  <link rel="shortcut icon" type="image/png" href="/assets/icon.png"/>
+  <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="./styles/theme.css">
+  <link rel="stylesheet" href="./styles/style.css">
+  <link rel="stylesheet" href="./styles/checkboxes.css">
+  <link rel="stylesheet" href="./styles/loader.css">
+</head>
+
+<body>
+
+  <!--___________________________________ MENU ______________________________________________________-->
+  <div id="menu" class="float-center" style="max-width:800px;max-height:800px;">
+    <div id="select-mode" class="row">
+      <!-- run manual mode card -->
+      <div class="col-sm-4 col-sm-offset-1 col-xs-10 col-xs-offset-1 select-tile" onclick="setManualMode()">
+        <div class="mode-title" id="mode-title-1">
+          <span>Manual Mode</span>
+        </div>
+        <p>Manually search for stars and identify it's exoplanets</p>
+        <span class="glyphicon glyphicon-search"></span>
+      </div>
+      <!-- run batch mode card -->
+      <div class="col-sm-4 col-sm-offset-2 col-xs-10 col-xs-offset-1 select-tile" onclick="setBatchMode()">
+        <div class="mode-title" id="mode-title-1">
+          <span>Batch Mode</span>
+        </div>
+        <p>Run a high-performance batch mode and analyse multiple stars</p>
+        <span class="glyphicon glyphicon-forward"></span>
+      </div>
+    </div>
+  </div>
+
+  <!--___________________________________ MANUAL MODE ______________________________________________________-->
+  <div id="manual-mode" class="mode">
+    <!-- manual header -->
+    <div class="mode-headline">
+      <span onclick="showMenu()" style="float:left;">
+        <span class="glyphicon glyphicon-arrow-left"></span>Back</span>
+      <h3>Manual Mode</h3>
+    </div>
+    <!-- input forms -->
+    <div class="form-group row mode-container">
+      <div id="manual-input" class="col-xs-12 col-sm-5 col-md-4 col-lg-3">
+        <label class="control-label" for="k2-input">Enter K2-Id or alias name</label>
+        <div class="input-group">
+          <input id="k2-input" class="form-control" type="text" value="203771098" placeholder="eg.: '203771098' or 'K2-10'" />
+          <div class="input-group-btn">
+            <button id="k2-input-btn" class="btn btn-default" onclick="loadLightcurve()">
+              <i class="glyphicon glyphicon-search"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" style="text-align:right;position:absolute;right:10px;bottom:0;">
+        <button class="btn btn-primary" onclick="startAnalysis()" id="manual-start-scan-btn">
+          Start Scan
+        </button>
+      </div>
+    </div>
+
+    <!-- chart-area -->
+    <div id="outer-manualChart">
+      <div id="manualChart" class="chart"></div>
+    </div>
+    <div class="chart-spacer"></div>
+    <hr>
+    <!-- manual progress -->
+    <div id="manual-progress-display">
+      <p id="manual-status-display"></p>
+      <span id="manual-accuracy-display"></span>
+      <button id="manual-adjust-result" class="btn btn-primary" onclick="adjustManualResult()">Adjust Result</button>
+    </div>
+    <!-- manual results (dynamically filled) -->
+    <div id="manual-result"></div>
+  </div>
+
+  <!--___________________________________ BATCH MODE ______________________________________________________-->
+  <div id="batch-mode" class="mode">
+    <!-- batch header -->
+    <div class="mode-headline">
+      <span onclick="showMenu();stopBatch();showBatchControls();" style="float:left;">
+        <span class="glyphicon glyphicon-arrow-left"></span>Back</span>
+      <h3>Batch Mode</h3>
+    </div>
+    <!-- batch configuration form-->
+    <div class="mode-container">
+      <div id="batch-mode-controls">
+        <!-- checkboxes -->
+        <div class="checkboxes row">
+          <div class="checkbox-primary col-xs-12 col-sm-6">
+            <input type="checkbox" name="checkbox" id="checkbox1" checked/>
+            <label for="checkbox1">Show charts</label>
+          </div>
+          <div class="checkbox-primary col-xs-12 col-sm-6">
+            <input type="checkbox" name="checkbox" id="checkbox2" checked/>
+            <label for="checkbox2">Show progress</label>
+          </div>
+          <div class="checkbox-primary col-xs-12 col-sm-6">
+            <input type="checkbox" name="checkbox" id="checkbox3" checked/>
+            <label for="checkbox3">Show report</label>
+          </div>
+          <div class="checkbox-primary col-xs-12 col-sm-12">
+            <input type="checkbox" name="checkbox" id="checkbox4" />
+            <label for="checkbox4">Enable User Feedback (allows for improvement of the scan algorithm with the help of user input)</label>
+          </div>
+        </div>
+        <hr>
+        <!-- batch exit conditions -->
+        <div class="limits row">
+          <div class="col-xs-12 col-sm-6">
+            <label class="control-label" for="count-limit">Number of iterations</label>
+            <input id="count-limit" class="form-control" type="number" placeholder="eg.: 10" min="0" />
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <label class="control-label" for="time-limit">Time limit in minutes</label>
+            <input id="time-limit" class="form-control" type="number" placeholder="eg.: 60" min="0" />
+          </div>
+          <p class="info">
+            <strong>NOTE:</strong> leave both blank for indefinite duration</p>
+        </div>
+        <hr>
+      </div>
+      <!-- button area to start/stop batch -->
+      <div class="batch-btn-area">
+        <button class="btn btn-primary" onclick="startBatch()" id="start-batch-btn">START
+          <span class="glyphicon glyphicon-play"></span>
+        </button>
+        <button class="btn btn-danger" onclick="stopBatch();showBatchReport();" id="stop-batch-btn" style="display:none;">STOP
+          <span class="glyphicon glyphicon-stop"></span>
+        </button>
+      </div>
+    </div>
+    <div id="batch-display" style="display:none;">
+        <!-- batch chart -->
+      <div id="outer-batchChart">
+        <div id="batchChart" class="chart"></div>
+      </div>
+      <div class="chart-spacer"></div>
+      <hr>
+      <!-- batch progress -->
+      <div id="batch-progress-display">
+        <p id="batch-status-display">Looking for potential exoplanets</p>
+        <span id="batch-accuracy-display"></span>
+      </div>
+    </div>
+    <!--Batch report-->
+    <div id="batch-report" style="display:none;">
+      <div class="close-report">
+        <span class="glyphicon glyphicon-save" onclick="saveJson()"></span>
+        <span class="glyphicon glyphicon-remove" onclick="showBatchControls()"></span>
+      </div>
+      <h1>Batch Report</h1>
+      <hr>
+      <!-- dynamically filled batch report -->
+      <div id="batch-report-content"></div>
+    </div>
+  </div>
+
+  <!--___________________________________ CHART DROPDOWN ______________________________________________________-->
+  <div id="chart-section" class="form-group" style="display:none;">
+    <select class="form-control" id="select-chart-type" onchange="changeType()">
+      <option>line</option>
+      <option>scatter</option>
+    </select>
+    <div id="chartContainer"></div>
+  </div>
+
+  <!--___________________________________ LOADER ______________________________________________________-->
+  <div id="loader">
+    <div class="orbit">
+      <div class="core"></div>
+      <div class="sat">
+        <div></div>
+      </div>
+    </div>
+  </div>
+
+  <!--___________________________________ DETAIL MODAL ______________________________________________________-->
+  <div id="detail-modal">
+    <div id="detail-modal-container">
+      <div id="detail-modal-header">
+        <span style="font-size:120%;float:left;">Adjust Result</span>
+        <span class="glyphicon glyphicon-remove" onclick="hideModal()" style="cursor:pointer;padding:10px;"></span>
+      </div>
+      <hr>
+      <div id="outer-detailChart">
+        <div id="detailChart" class="chart"></div>
+      </div>
+      <div class="chart-spacer"></div>
+      <hr>
+      <div id="detail-modal-content">
+      </div>
+    </div>
+  </div>
+
+  <!--___________________________________ SCRIPTS ______________________________________________________-->
+
+  <script src="./scripts/globals.js"></script>
+  <script src="./scripts/serverinterface.js"></script>
+  <script src="./scripts/pythoninterface.js"></script>
+  <script src="./scripts/detailview.js"></script>
+  <script src="./scripts/menu.js"></script>
+  <script src="./scripts/scan.js"></script>
+  <script src="./scripts/manualmode.js"></script>
+  <script src="./scripts/batchmode.js"></script>
+  <script>require('./renderer.js')</script>
+</body>
+
+</html>

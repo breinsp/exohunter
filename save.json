@@ -1,0 +1,771 @@
+{
+	"startTime": "2017-12-27T15:42:06.424Z",
+	"endTime": "2017-12-27T15:44:47.726Z",
+	"starCounter": 15,
+	"starsWithHighProbabilityCounter": 4,
+	"starsWithCandidatesCounter": 3,
+	"totalCandidatesCounter": 5,
+	"stars": [
+		{
+			"id": 202139931,
+			"accuracy": 31.125
+		},
+		{
+			"id": 202087592,
+			"accuracy": 65.4188
+		},
+		{
+			"id": 202094516,
+			"accuracy": 3.0193
+		},
+		{
+			"id": 202136443,
+			"accuracy": 95.7306,
+			"star": {
+				"units": {
+					"mass": "M_Sun",
+					"radius": "R_Sun",
+					"rad_err1": "R_Sun",
+					"rad_err2": "R_Sun",
+					"effectiveTemp": "K",
+					"distance": "pc"
+				},
+				"epic": 202136443,
+				"mass": null,
+				"radius": null,
+				"rad_err1": null,
+				"rad_err2": null,
+				"effectiveTemp": null
+			},
+			"candidates": [
+				{
+					"units": {
+						"avgTotalTime": "BJD-2454833",
+						"avgFullTime": "BJD-2454833",
+						"orbitalVelocity": "m/s",
+						"semiMajorAxis": "au",
+						"impactParameter": "km",
+						"avgDeltaFlux": "flux",
+						"avgPlanetRadius": "R_Jup",
+						"avgPlanetRadiusErr1": "R_Jup",
+						"avgPlanetRadiusErr2": "R_Jup",
+						"equTempKBB01": "K",
+						"equTempKBB03": "K",
+						"equTempKBB07": "K",
+						"periodAvg": "days"
+					},
+					"periods": [],
+					"periodAvg": null,
+					"avgDeltaFlux": 0.014061536999999902,
+					"avgFullTime": 0.04086316600000828,
+					"avgTotalTime": 0.16345306500011247,
+					"avgPlanetRadius": null,
+					"avgPlanetRadiusErr1": null,
+					"avgPlanetRadiusErr2": null,
+					"semiMajorAxis": null,
+					"orbitalVelocity": null,
+					"equTempKBB01": null,
+					"equTempKBB02": null,
+					"equTempKBB07": null,
+					"dips": [
+						{
+							"id": 1,
+							"startPoint": 1940.315104892,
+							"endPoint": 1940.498989689,
+							"globalStartIndex": 54,
+							"globalEndIndex": 62,
+							"charList": [
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"UP",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": 1,
+							"isSmallDip": -2,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1940.315104892,
+								1940.335536525,
+								1940.355968159,
+								1940.396831425,
+								1940.417263058,
+								1940.437694591,
+								1940.458126324,
+								1940.478557957,
+								1940.498989689
+							],
+							"r_y": [
+								0.983945904,
+								0.985562012,
+								0.984943129,
+								0.967361298,
+								0.981218893,
+								0.972898335,
+								0.982124077,
+								0.984436803,
+								0.98469623
+							],
+							"n_y": [
+								-0.08879365941358153,
+								0,
+								-0.03400322646683063,
+								-1,
+								-0.23862355070246477,
+								-0.6957791326208431,
+								-0.18889011716793103,
+								-0.06182224499544442,
+								-0.04756857340871856
+							],
+							"deltaFlux": 0.014061536999999902,
+							"totalTime": 0.16345306500011247,
+							"fullTime": 0.04086316600000828
+						}
+					]
+				},
+				{
+					"units": {
+						"avgTotalTime": "BJD-2454833",
+						"avgFullTime": "BJD-2454833",
+						"orbitalVelocity": "m/s",
+						"semiMajorAxis": "au",
+						"impactParameter": "km",
+						"avgDeltaFlux": "flux",
+						"avgPlanetRadius": "R_Jup",
+						"avgPlanetRadiusErr1": "R_Jup",
+						"avgPlanetRadiusErr2": "R_Jup",
+						"equTempKBB01": "K",
+						"equTempKBB03": "K",
+						"equTempKBB07": "K",
+						"periodAvg": "days"
+					},
+					"periods": [],
+					"periodAvg": null,
+					"avgDeltaFlux": 0.003311874524661196,
+					"avgFullTime": 0.12258987600012006,
+					"avgTotalTime": 0.14302118899991,
+					"avgPlanetRadius": null,
+					"avgPlanetRadiusErr1": null,
+					"avgPlanetRadiusErr2": null,
+					"semiMajorAxis": null,
+					"orbitalVelocity": null,
+					"equTempKBB01": null,
+					"equTempKBB02": null,
+					"equTempKBB07": null,
+					"dips": [
+						{
+							"id": 4,
+							"startPoint": 1949.856673191,
+							"endPoint": 1950.020126093,
+							"globalStartIndex": 462,
+							"globalEndIndex": 468,
+							"charList": [
+								"FLAT",
+								"FLAT",
+								"FLAT",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN"
+							],
+							"isLargeDip": 1,
+							"isSmallDip": -2,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1949.856673191,
+								1949.877104704,
+								1949.897536217,
+								1949.917967929,
+								1949.979262767,
+								1949.99969438,
+								1950.020126093
+							],
+							"r_y": [
+								1.00403578,
+								1.004221772,
+								1.002260413,
+								0.998288935,
+								1.0034388154363303,
+								1.0032147990493225,
+								1.000390897
+							],
+							"n_y": [
+								-0.010218939762474344,
+								0,
+								-0.10776275040638794,
+								-0.3259672669984216,
+								-0.04301790378496506,
+								-0.05532601362108214,
+								-0.21047938009464962
+							],
+							"deltaFlux": 0.003311874524661196,
+							"totalTime": 0.14302118899991,
+							"fullTime": 0.12258987600012006
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 202073362,
+			"accuracy": 0.5185
+		},
+		{
+			"id": 202093741,
+			"accuracy": 13.4979
+		},
+		{
+			"id": 202073319,
+			"accuracy": 0
+		},
+		{
+			"id": 202083816,
+			"accuracy": 98.8355,
+			"star": {
+				"units": {
+					"mass": "M_Sun",
+					"radius": "R_Sun",
+					"rad_err1": "R_Sun",
+					"rad_err2": "R_Sun",
+					"effectiveTemp": "K",
+					"distance": "pc"
+				},
+				"epic": 202083816,
+				"mass": null,
+				"radius": null,
+				"rad_err1": null,
+				"rad_err2": null,
+				"effectiveTemp": null
+			},
+			"candidates": []
+		},
+		{
+			"id": 202092178,
+			"accuracy": 32.2984
+		},
+		{
+			"id": 202073489,
+			"accuracy": 21.668
+		},
+		{
+			"id": 202087896,
+			"accuracy": 49.2882
+		},
+		{
+			"id": 202136460,
+			"accuracy": 96.1724,
+			"star": {
+				"units": {
+					"mass": "M_Sun",
+					"radius": "R_Sun",
+					"rad_err1": "R_Sun",
+					"rad_err2": "R_Sun",
+					"effectiveTemp": "K",
+					"distance": "pc"
+				},
+				"epic": 202136460,
+				"mass": null,
+				"radius": null,
+				"rad_err1": null,
+				"rad_err2": null,
+				"effectiveTemp": null
+			},
+			"candidates": [
+				{
+					"units": {
+						"avgTotalTime": "BJD-2454833",
+						"avgFullTime": "BJD-2454833",
+						"orbitalVelocity": "m/s",
+						"semiMajorAxis": "au",
+						"impactParameter": "km",
+						"avgDeltaFlux": "flux",
+						"avgPlanetRadius": "R_Jup",
+						"avgPlanetRadiusErr1": "R_Jup",
+						"avgPlanetRadiusErr2": "R_Jup",
+						"equTempKBB01": "K",
+						"equTempKBB03": "K",
+						"equTempKBB07": "K",
+						"periodAvg": "days"
+					},
+					"periods": [
+						8.887753812000028,
+						9.23510618299997
+					],
+					"periodAvg": 9.0614299975,
+					"isPeriodValid": true,
+					"avgDeltaFlux": 0.0008128319710680362,
+					"avgFullTime": 0.05448446600000049,
+					"avgTotalTime": 0.12258987266674619,
+					"avgPlanetRadius": null,
+					"avgPlanetRadiusErr1": null,
+					"avgPlanetRadiusErr2": null,
+					"semiMajorAxis": null,
+					"orbitalVelocity": null,
+					"equTempKBB01": null,
+					"equTempKBB02": null,
+					"equTempKBB07": null,
+					"dips": [
+						{
+							"id": 1,
+							"startPoint": 1946.465014749,
+							"endPoint": 1946.608036029,
+							"globalStartIndex": 324,
+							"globalEndIndex": 331,
+							"charList": [
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"BOTTOM",
+								"BOTTOM",
+								"UP",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": -1,
+							"isSmallDip": 0,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1946.465014749,
+								1946.48544626,
+								1946.505877971,
+								1946.526309483,
+								1946.546741195,
+								1946.567172806,
+								1946.587604418,
+								1946.608036029
+							],
+							"r_y": [
+								0.997916659,
+								0.997916524,
+								0.997865967,
+								0.996813251,
+								0.997285642,
+								0.9978045,
+								0.998450099,
+								0.998584293
+							],
+							"n_y": [
+								-0.22991719132362576,
+								-0.2299636820967803,
+								-0.24737430444637842,
+								-0.6099045320583247,
+								-0.44722436309360913,
+								-0.26854207001716546,
+								-0.04621320599680112,
+								0
+							],
+							"deltaFlux": 0.0011339325000001566,
+							"totalTime": 0.12258966900003543,
+							"fullTime": 0.02043171200011784
+						},
+						{
+							"id": 2,
+							"startPoint": 1955.352768561,
+							"endPoint": 1955.475358391,
+							"globalStartIndex": 704,
+							"globalEndIndex": 710,
+							"charList": [
+								"UP",
+								"FLAT",
+								"FLAT",
+								"DOWN",
+								"DOWN",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": 1,
+							"isSmallDip": -2,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1955.352768561,
+								1955.373200182,
+								1955.393631804,
+								1955.414063425,
+								1955.434495047,
+								1955.454926669,
+								1955.475358391
+							],
+							"r_y": [
+								1.000026479,
+								1.000185227,
+								0.999749785,
+								0.999047237,
+								1.000090319,
+								1.000104604,
+								1.000833945
+							],
+							"n_y": [
+								-0.2780719897568552,
+								-0.22340297306768553,
+								-0.37335878961441116,
+								-0.6152995279981012,
+								-0.25608701970726955,
+								-0.2511676071577903,
+								0
+							],
+							"deltaFlux": 0.0006670304999999432,
+							"totalTime": 0.10215810800013969,
+							"fullTime": 0.020431620999943334
+						},
+						{
+							"id": 5,
+							"startPoint": 1964.587874744,
+							"endPoint": 1964.751328163,
+							"globalStartIndex": 1086,
+							"globalEndIndex": 1092,
+							"charList": [
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"BOTTOM",
+								"UP",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": -1,
+							"isSmallDip": 0,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1964.587874744,
+								1964.608306421,
+								1964.628738098,
+								1964.69003313,
+								1964.710464908,
+								1964.730896585,
+								1964.751328163
+							],
+							"r_y": [
+								1.001542324,
+								1.001532409,
+								1.000786132,
+								1.000400736,
+								1.0013146963684212,
+								1.0011595704930747,
+								1.000953375
+							],
+							"n_y": [
+								0,
+								-0.0034144890044631726,
+								-0.2604144497455789,
+								-0.393135620128404,
+								-0.07838951539358119,
+								-0.13181115893074313,
+								-0.20281995811015385
+							],
+							"deltaFlux": 0.0006375329132040086,
+							"totalTime": 0.14302184100006343,
+							"fullTime": 0.1225900649999403
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 202083293,
+			"accuracy": 77.9397
+		},
+		{
+			"id": 202089682,
+			"accuracy": 84.4197
+		},
+		{
+			"id": 202138346,
+			"accuracy": 93.5201,
+			"star": {
+				"units": {
+					"mass": "M_Sun",
+					"radius": "R_Sun",
+					"rad_err1": "R_Sun",
+					"rad_err2": "R_Sun",
+					"effectiveTemp": "K",
+					"distance": "pc"
+				},
+				"epic": 202138346,
+				"mass": null,
+				"radius": null,
+				"rad_err1": null,
+				"rad_err2": null,
+				"effectiveTemp": null
+			},
+			"candidates": [
+				{
+					"units": {
+						"avgTotalTime": "BJD-2454833",
+						"avgFullTime": "BJD-2454833",
+						"orbitalVelocity": "m/s",
+						"semiMajorAxis": "au",
+						"impactParameter": "km",
+						"avgDeltaFlux": "flux",
+						"avgPlanetRadius": "R_Jup",
+						"avgPlanetRadiusErr1": "R_Jup",
+						"avgPlanetRadiusErr2": "R_Jup",
+						"equTempKBB01": "K",
+						"equTempKBB03": "K",
+						"equTempKBB07": "K",
+						"periodAvg": "days"
+					},
+					"periods": [],
+					"periodAvg": null,
+					"avgDeltaFlux": 0.015914183999999998,
+					"avgFullTime": 0,
+					"avgTotalTime": 0.18388438800002405,
+					"avgPlanetRadius": null,
+					"avgPlanetRadiusErr1": null,
+					"avgPlanetRadiusErr2": null,
+					"semiMajorAxis": null,
+					"orbitalVelocity": null,
+					"equTempKBB01": null,
+					"equTempKBB02": null,
+					"equTempKBB07": null,
+					"dips": [
+						{
+							"id": 4,
+							"startPoint": 1949.570567662,
+							"endPoint": 1949.774883649,
+							"globalStartIndex": 454,
+							"globalEndIndex": 461,
+							"charList": [
+								"UP",
+								"UP",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN"
+							],
+							"isLargeDip": 1,
+							"isSmallDip": -2,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1949.570567662,
+								1949.61143076,
+								1949.631862458,
+								1949.652294057,
+								1949.672725556,
+								1949.734020352,
+								1949.75445205,
+								1949.774883649
+							],
+							"r_y": [
+								0.999856545,
+								1.000103578,
+								0.999059691,
+								0.997935151,
+								0.983844849,
+								0.999653306,
+								0.999661521,
+								0.99950768
+							],
+							"n_y": [
+								-0.010853995129450844,
+								0,
+								-0.04586571192389022,
+								-0.09527510938443273,
+								-0.7143667662903992,
+								-0.01978379445226819,
+								-0.019422848465340148,
+								-0.026182226624168692
+							],
+							"deltaFlux": 0.015914183999999998,
+							"totalTime": 0.18388438800002405,
+							"fullTime": 0
+						}
+					]
+				},
+				{
+					"units": {
+						"avgTotalTime": "BJD-2454833",
+						"avgFullTime": "BJD-2454833",
+						"orbitalVelocity": "m/s",
+						"semiMajorAxis": "au",
+						"impactParameter": "km",
+						"avgDeltaFlux": "flux",
+						"avgPlanetRadius": "R_Jup",
+						"avgPlanetRadiusErr1": "R_Jup",
+						"avgPlanetRadiusErr2": "R_Jup",
+						"equTempKBB01": "K",
+						"equTempKBB03": "K",
+						"equTempKBB07": "K",
+						"periodAvg": "days"
+					},
+					"periods": [
+						0.6742433229999278,
+						2.1248876090000977
+					],
+					"periodAvg": 1.3995654660000127,
+					"isPeriodValid": true,
+					"avgDeltaFlux": 0.008127349416666707,
+					"avgFullTime": 0.03405272233324771,
+					"avgTotalTime": 0.11577915233328895,
+					"avgPlanetRadius": null,
+					"avgPlanetRadiusErr1": null,
+					"avgPlanetRadiusErr2": null,
+					"semiMajorAxis": null,
+					"orbitalVelocity": null,
+					"equTempKBB01": null,
+					"equTempKBB02": null,
+					"equTempKBB07": null,
+					"dips": [
+						{
+							"id": 1,
+							"startPoint": 1940.907566043,
+							"endPoint": 1941.030155626,
+							"globalStartIndex": 79,
+							"globalEndIndex": 85,
+							"charList": [
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"BOTTOM",
+								"UP",
+								"DOWN",
+								"DOWN"
+							],
+							"isLargeDip": -1,
+							"isSmallDip": 0,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1940.907566043,
+								1940.927997557,
+								1940.948429171,
+								1940.968860885,
+								1940.989292399,
+								1941.009724113,
+								1941.030155626
+							],
+							"r_y": [
+								1.000904161,
+								1.000906673,
+								1.000219708,
+								0.999598252,
+								1.001223009,
+								1.000310527,
+								1.000323342
+							],
+							"n_y": [
+								-0.014009361660323405,
+								-0.013898990836323066,
+								-0.04408246739250099,
+								-0.07138764685097776,
+								0,
+								-0.040092113943119956,
+								-0.03952905577848409
+							],
+							"deltaFlux": 0.0004943867500002419,
+							"totalTime": 0.10215806999985944,
+							"fullTime": 0.08172645499985265
+						},
+						{
+							"id": 2,
+							"startPoint": 1941.581809366,
+							"endPoint": 1941.704399033,
+							"globalStartIndex": 111,
+							"globalEndIndex": 116,
+							"charList": [
+								"START",
+								"DOWN",
+								"BOTTOM",
+								"UP",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": -1,
+							"isSmallDip": 0,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1941.581809366,
+								1941.622672488,
+								1941.6431042,
+								1941.663535811,
+								1941.683967422,
+								1941.704399033
+							],
+							"r_y": [
+								1.001232541,
+								1.000140805,
+								0.999400381,
+								1.000294502,
+								1.000616268,
+								1.000786519
+							],
+							"n_y": [
+								0,
+								-0.047968074008910566,
+								-0.08050040163205097,
+								-0.04121502283999445,
+								-0.02707745175912346,
+								-0.01959706037503728
+							],
+							"deltaFlux": 0.001153811500000046,
+							"totalTime": 0.10215805600000749,
+							"fullTime": 0.020431711999890467
+						},
+						{
+							"id": 3,
+							"startPoint": 1943.706696975,
+							"endPoint": 1943.87014981,
+							"globalStartIndex": 203,
+							"globalEndIndex": 209,
+							"charList": [
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"DOWN",
+								"UP",
+								"UP",
+								"UP"
+							],
+							"isLargeDip": 1,
+							"isSmallDip": -2,
+							"dipStatus": "real",
+							"isDipGrouped": -1,
+							"r_x": [
+								1943.706696975,
+								1943.72712868,
+								1943.747560284,
+								1943.788423493,
+								1943.829286601,
+								1943.849718306,
+								1943.87014981
+							],
+							"r_y": [
+								1.000395368,
+								1.000202006,
+								0.9991414409474776,
+								0.977687306,
+								1.000181826,
+								1.000446944,
+								1.000279108
+							],
+							"n_y": [
+								-0.002266116886390779,
+								-0.010761946213723061,
+								-0.05736044890179315,
+								-1,
+								-0.01164860354984354,
+								0,
+								-0.007374282490781314
+							],
+							"deltaFlux": 0.022733849999999833,
+							"totalTime": 0.14302133099999992,
+							"fullTime": 0
+						}
+					]
+				}
+			]
+		}
+	]
+}
