@@ -1,4 +1,4 @@
-# Electron client **ExoHunter**
+# Exohunter electron client
 
 ## Setup
 
@@ -20,6 +20,10 @@ To package the electron app you need to use the electron-packager module
 
 [More Info](https://github.com/electron-userland/electron-packager)
 
-## Notes:
+## Full documentation of Exohunter can be downloaded here
 
-* K2DataProvider necessary for this app to run correctly (using REST interface)
+[Exohunter.pdf](https://breinsp.github.io/res/exohunter.pdf)
+
+## Notes
+
+Exohunter server is necessary for the client to work. Server repository can be found [here](https://github.com/breinsp/exohunter-server)
