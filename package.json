@@ -17,7 +17,7 @@
   "author": "Bernhard",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.7.16"
+    "electron": ">=1.8.2-beta5"
   },
   "dependencies": {
     "bootstrap": "^3.4.1",
