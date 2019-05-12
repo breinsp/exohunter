@@ -17,13 +17,13 @@
   "author": "Bernhard",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "~1.7.8"
+    "electron": "^1.7.16"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "canvasjs": "^1.8.1",
     "child_process": "^1.0.2",
-    "jquery": "^3.2.1"
+    "jquery": "^3.4.1"
   },
   "build": {
     "extraResources": "python"
