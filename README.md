@@ -1,5 +1,9 @@
 # Exohunter electron client
 
+![image](https://github.com/breinsp/exohunter/blob/master/exohunter_analysis.png)
+
+![image](https://github.com/breinsp/exohunter/blob/master/HGANrTi.jpg)
+
 ## Setup
 
 First install node_modules
